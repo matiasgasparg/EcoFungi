@@ -1,0 +1,101 @@
+*  {
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Lobster', cursive;
+
+
+
+}
+.titulo__h1 {
+	background-color: #FED045;
+	color: red;
+	padding:10px 50px 20px 100px;
+	text-align: center;
+	text-shadow: 2px 2px 3px #000000;
+	box-sizing: border-box;
+	
+
+	
+}
+
+.navegador__div{
+	color: blue;
+}
+.navegador__div-nav-ul{ 
+	color: blue;
+	background-color:#F68F10;
+cd
+
+
+}
+.navegador__div-nav-ul-li1:hover{
+	background-color:#E9E8E6;
+	display: inline;	
+	color: blue;
+}
+.navegador__div-nav-ul-li2:hover{
+	background-color:#E9E8E6;
+	display: inline;	
+	color: blue;
+}
+.navegador__div-nav-ul-li3:hover{
+	background-color:#E9E8E6;
+	display: inline;
+	color: blue;
+}
+.navegador__div-nav-ul-li4:hover{
+	background-color:#E9E8E6;
+	display: inline;
+	color: blue;
+}
+
+.contenedorimagenes{
+	background-color: #FED045;
+	border-color: red;
+	position: relative;
+	
+
+}
+.hijoimagenes1 {
+	padding-top: 10px;
+	margin-left: 10px;
+
+
+}
+
+.hijoimagenes2{
+	margin-left: 10px;
+
+}
+.hijoimagenes3 {
+	margin-left: 10px;
+
+}
+
+.hijoimagenes4{
+	margin-left: 10px;
+
+	
+}
+.hijoimagenes5 {
+	margin-left: 10px;
+
+}
+
+.hijoimagenes6 {
+	margin-left: 10px;
+
+	
+}
+.propiedades__h2-p{
+
+	display: inline-block;
+	box-sizing: border-box;
+	text-align: center;
+	margin: 10px 20px;
+	border-radius: 2em;
+	border: 2px solid blue;
+	box-shadow: 1px 2px 5px 0 #000;
+	text-shadow: 2px 2px 7px #fff;
+	transform:rotate(0);
+}
